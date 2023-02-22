@@ -1,7 +1,7 @@
 <h1 align="center"> Cartão de visita </h1>
 
 <p align="center">
-Cartão de visitas de Elide Paixão <br/>
+Cartão de visitas Stúdio M <br/>
 </p>
 
 <p align="center">
@@ -35,8 +35,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Um cartão de visitas on line contendo os links para o meu GitHub e Linkedin.
 
 ## Layout
-
-Você pode visualizar o projeto através [DESSE LINK](https://www.figma.com/file/acFQfiJtMPdmNiMONKKQS4/DevLinks-(Community)?node-id=0%3A1&t=xEQaW6rz11NFCvnK-0)
 
 
 - [Visite o projeto online](#)
